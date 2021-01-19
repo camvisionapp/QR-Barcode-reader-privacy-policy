@@ -1,7 +1,7 @@
-# QR & Barcode reader Privacy Policy
+# QR Easy - QR & Barcode Scanner's Privacy Policy
 ----
 
-I (CamVisionApp) built the QR & Barcode reader app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
+I (QrEasy) built the QR & Barcode Scanner app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -11,7 +11,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way.
+#### I guarantee to NOT collect or sell your personal information in any way. The app I built doesn't require any special permission to collect your personal information.
+
+For a better experience, while using our Service, I use some services that may require you to provide them with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way.
 
 The app dose use your phone 's Camera and access your Photos to recognize QR codes and Barcodes from its.
 
@@ -19,7 +21,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-[Google Play Services][1]
+[Firebase Crashlytics - Crash reporting tool][1]
 
 ### Log Data
 
@@ -31,6 +33,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at camvision.app@gmail.com.
 
-[1]: https://www.google.com/policies/privacy/
+[1]: https://firebase.google.com/products/crashlytics
